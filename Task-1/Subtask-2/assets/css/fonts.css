@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Daft Brush";
+  src: url("../fonts/");
+  src: url("../fonts/?#iefix") format("embedded-opentype"),
+    url("../fonts/subset-DaftBrush.woff2") format("woff2"),
+    url("../fonts/subset-DaftBrush.woff") format("woff"),
+    url("../fonts/subset-DaftBrush.ttf") format("truetype"),
+    url("../fonts/subset-DaftBrush.svg#DaftBrush") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
